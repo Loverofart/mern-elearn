@@ -1,0 +1,7 @@
+installs:
+  npm install --save express express-validator mongoose
+  npm install --save dotenv
+  npm install --save-dev nodemon
+  npm install --save body-parser
+  npm -i cors
+  npm install --save bcrypt
